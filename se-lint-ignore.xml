@@ -12,4 +12,10 @@
 			<reason>Punctuation used for effect</reason>
 		</ignore>
 	</file>
+	<file path="interlude.xhtml">
+		<ignore>
+			<code>t-041</code>
+			<reason>Punctuation used for effect</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

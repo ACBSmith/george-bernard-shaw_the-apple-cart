@@ -36,12 +36,9 @@
 		<dc:title id="fulltitle">The Apple Cart: A Political Extravaganza</dc:title>
 		<meta property="file-as" refines="#fulltitle">Apple Cart: A Political Extravaganza, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Political science--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">An English king challenges his popular prime minister and cabinet.</dc:description>
